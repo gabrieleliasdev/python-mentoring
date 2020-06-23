@@ -1,0 +1,8 @@
+print("Qual é a sua idade?", end = ' ')
+idade = input ()
+print("Qual a sua altura:", end = ' ')
+altura = input ()
+print("Qual o seu peso?", end = ' ')
+peso = input()
+print(f"Então, você tem {idade} anos, {altura} de altura e pesa {peso} kg.")
+print ("Ainda tá em tempo. Melhore!!")
