@@ -26,3 +26,4 @@ for i in range (0,6):
 # agora podemos imprimi-la também
 for i in elementos:
   print(f"Elemento era {i}")
+
